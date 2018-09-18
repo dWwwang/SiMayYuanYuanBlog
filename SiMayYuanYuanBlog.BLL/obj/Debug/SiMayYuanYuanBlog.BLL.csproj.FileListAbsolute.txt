@@ -1,0 +1,2 @@
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.BLL\obj\Debug\SiMayYuanYuanBlog.BLL.csprojAssemblyReference.cache
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.BLL\obj\Debug\SiMayYuanYuanBlog.BLL.csproj.CoreCompileInputs.cache

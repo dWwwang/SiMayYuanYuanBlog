@@ -9,9 +9,9 @@ namespace SiMayYuanYuanBlog.DAL.BlogComment
 {
     public class CommentInfoManager
     {
-        public List<CommentModel> GetCommentsByArticleId(int )
-        {
+        //public List<CommentModel> GetCommentsByArticleId(int )
+        //{
 
-        }
+        //}
     }
 }
