@@ -1,6 +1,0 @@
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\bin\Debug\SiMayYuanYuanBlog.Core.dll
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\bin\Debug\SiMayYuanYuanBlog.Core.pdb
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\obj\Debug\SiMayYuanYuanBlog.Core.csprojAssemblyReference.cache
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\obj\Debug\SiMayYuanYuanBlog.Core.csproj.CoreCompileInputs.cache
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\obj\Debug\SiMayYuanYuanBlog.Core.dll
-F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.Core\obj\Debug\SiMayYuanYuanBlog.Core.pdb
