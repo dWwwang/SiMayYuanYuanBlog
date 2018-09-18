@@ -26,7 +26,7 @@ namespace SiMayYuanYuanBlog.DAL.Account
             {
                 DataTable dt = ds.Tables[0];
 
-                return SiMayYuanYuanBlog.Core.UtilityHelper.GetModelEntity<LoginResultModel>(dt)[0];
+                return SiMay.Common.ModelHelper<LoginResultModel>.ConvertToModelEntity(dt);
             }
             else
                 return new LoginResultModel();

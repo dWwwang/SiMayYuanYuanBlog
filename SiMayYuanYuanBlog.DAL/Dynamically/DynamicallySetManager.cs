@@ -39,8 +39,7 @@ namespace SiMayYuanYuanBlog.DAL.Dynamically
             {
                 DataTable dt = ds.Tables[0];
 
-                List<DynamicallyModel> dynamicallyModels = SiMayYuanYuanBlog.Core.UtilityHelper.GetModelEntity<DynamicallyModel>(dt);
-
+                List<DynamicallyModel> dynamicallyModels = SiMay.Common.ModelHelper<DynamicallyModel>.ConvertToModelEntitys(dt);
 
                 return dynamicallyModels;
             }

@@ -73,9 +73,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SiMayYuanYuanBlog.Core\SiMayYuanYuanBlog.Core.csproj">
-      <Project>{75c570e9-9794-4d41-b120-414b2478f9dc}</Project>
-      <Name>SiMayYuanYuanBlog.Core</Name>
+    <ProjectReference Include="..\SiMay.Common\SiMay.Common.csproj">
+      <Project>{92580ef3-c00a-4baf-bdfb-4bd78708878b}</Project>
+      <Name>SiMay.Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\SiMayYuanYuanBlog.Models\SiMayYuanYuanBlog.Models.csproj">
       <Project>{04fe3bdd-f0ef-4d22-a10c-7579a861dd70}</Project>

@@ -24,7 +24,7 @@ namespace SiMayYuanYuanBlog.DAL.Account
 
             if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
             {
-                return SiMayYuanYuanBlog.Core.UtilityHelper.GetModelEntity<AccountInfoModel>(ds.Tables[0])[0];
+                return SiMay.Common.ModelHelper<AccountInfoModel>.ConvertToModelEntity(ds.Tables[0]);
             }
             else
                 return null;
@@ -42,7 +42,7 @@ namespace SiMayYuanYuanBlog.DAL.Account
 
             if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
             {
-                return SiMayYuanYuanBlog.Core.UtilityHelper.GetModelEntity<ModtifyPersonInfoModel>(ds.Tables[0])[0];
+                return SiMay.Common.ModelHelper<ModtifyPersonInfoModel>.ConvertToModelEntity(ds.Tables[0]);
             }
             else
                 return null;
