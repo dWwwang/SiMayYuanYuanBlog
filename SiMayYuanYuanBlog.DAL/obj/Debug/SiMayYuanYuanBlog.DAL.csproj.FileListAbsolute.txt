@@ -1,2 +1,16 @@
 F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\obj\Debug\SiMayYuanYuanBlog.DAL.csprojAssemblyReference.cache
 F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\obj\Debug\SiMayYuanYuanBlog.DAL.csproj.CoreCompileInputs.cache
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMayYuanYuanBlog.DAL.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMayYuanYuanBlog.DAL.pdb
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMay.Common.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMay.DBUtility.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMayYuanYuanBlog.Models.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\MySql.Data.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMay.Common.pdb
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMay.DBUtility.pdb
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMay.DBUtility.dll.config
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\SiMayYuanYuanBlog.Models.pdb
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\bin\Debug\MySql.Data.xml
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\obj\Debug\SiMayYuanYuanBlog.DAL.csproj.CopyComplete
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\obj\Debug\SiMayYuanYuanBlog.DAL.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMayYuanYuanBlog.DAL\obj\Debug\SiMayYuanYuanBlog.DAL.pdb

@@ -1,4 +1,6 @@
-﻿using SiMayYuanYuanBlog.Models.BlogCommentModels;
+﻿using SiMay.DBUtility.Factory;
+using SiMay.DBUtility.Interface;
+using SiMayYuanYuanBlog.Models.BlogCommentModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;

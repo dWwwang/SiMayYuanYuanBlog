@@ -1,0 +1,6 @@
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\obj\Debug\SiMay.Common.csprojAssemblyReference.cache
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\obj\Debug\SiMay.Common.csproj.CoreCompileInputs.cache
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\bin\Debug\SiMay.Common.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\bin\Debug\SiMay.Common.pdb
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\obj\Debug\SiMay.Common.dll
+F:\Tools\Documents\Desktop\SiMayYuanYuanBlog\SiMay.Common\obj\Debug\SiMay.Common.pdb

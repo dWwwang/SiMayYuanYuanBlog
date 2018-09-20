@@ -1,4 +1,6 @@
-﻿using SiMayYuanYuanBlog.Models.DynamicallyModels;
+﻿using SiMay.DBUtility.Factory;
+using SiMay.DBUtility.Interface;
+using SiMayYuanYuanBlog.Models.DynamicallyModels;
 using System;
 using System.Collections.Generic;
 using System.Data;

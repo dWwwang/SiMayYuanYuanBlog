@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiMay.Common", "SiMay.Commo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiMay.Redis", "SiMay.Redis\SiMay.Redis.csproj", "{D43850ED-DCC1-4D15-AE0A-7C395A477B71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiMay.DBUtility", "SiMay.DBUtility\SiMay.DBUtility.csproj", "{E944338D-2441-498C-A587-631DCA3D8591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D43850ED-DCC1-4D15-AE0A-7C395A477B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43850ED-DCC1-4D15-AE0A-7C395A477B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43850ED-DCC1-4D15-AE0A-7C395A477B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E944338D-2441-498C-A587-631DCA3D8591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E944338D-2441-498C-A587-631DCA3D8591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E944338D-2441-498C-A587-631DCA3D8591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E944338D-2441-498C-A587-631DCA3D8591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
